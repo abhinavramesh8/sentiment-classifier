@@ -1,0 +1,6 @@
+.DS_Store
+*.output.txt
+__pycache__/
+*.py[cod]
+*$py.class
+optimization.py
